@@ -1,0 +1,7 @@
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame1\Definitions.SnakeGame1.h
+C:\homework\SnakeGame2\Source\SnakeGame1\SnakeElementBase.h
+C:\homework\SnakeGame2\Source\SnakeGame1\Interactable.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\Interactable.generated.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\SnakeElementBase.generated.h
+C:\homework\SnakeGame2\Source\SnakeGame1\SnakeBase.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\SnakeBase.generated.h

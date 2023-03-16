@@ -1,0 +1,11 @@
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame1\Definitions.SnakeGame1.h
+C:\homework\SnakeGame2\Source\SnakeGame1\PlayerPawnBase.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\PlayerPawnBase.generated.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine/Classes/Camera/CameraComponent.h
+C:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\homework\SnakeGame2\Source\SnakeGame1\SnakeBase.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\SnakeBase.generated.h
+C:\homework\SnakeGame2\Source\SnakeGame1\Food.h
+C:\homework\SnakeGame2\Source\SnakeGame1\Interactable.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\Interactable.generated.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\Food.generated.h

@@ -1,0 +1,5 @@
+C:\homework\SnakeGame1\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame1\Definitions.SnakeGame1.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\homework\SnakeGame1\Source\SnakeGame1/MyInterface.h
+C:\homework\SnakeGame1\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\MyInterface.generated.h

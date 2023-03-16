@@ -1,0 +1,5 @@
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame1\Definitions.SnakeGame1.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\homework\SnakeGame2\Source\SnakeGame1/DeathLine.h
+C:\homework\SnakeGame2\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame1\DeathLine.generated.h
